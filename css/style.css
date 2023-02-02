@@ -1,0 +1,100 @@
+.navigation{
+    width: 100%;
+    height: 15vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content:right;
+    position: absolute;
+}
+.Others-button{
+    padding-left: 363px;
+    margin-top: -8px;
+}
+.References-button{
+    padding-left: 727px;
+    margin-top: 1px;
+}
+.Looking{
+    color:wheat;
+    text-align: center;
+    font-weight: bolder;
+}
+button{
+    width: 200px;
+    padding: 73px 150px 10px;
+    text-align: center;
+    direction: ltr;
+    display: inline-block;
+    direction: ltr;
+    margin: -85px -75px;
+    margin-left: 135px;
+    border-radius: -100px;
+    border-width: 0px;
+    border-spacing: 40px;
+    border-color:#B61F48;
+    font-size: 13pt;
+    font-weight: bold;
+    border: 5px, #105855;
+    background: transparent;
+    color:rgb(162, 157, 69);
+    cursor: pointer;
+    position: relative;
+    overflow:visible;
+
+}
+
+button:hover span{
+   width: 100%;
+}
+button:hover{
+    border: none;
+ }
+.h1{
+    font-size: 22pt;
+    text-align: center;
+    margin-top: 40px;
+    color: azure;
+    word-spacing: normal;
+    white-space: nowrap;
+}
+.h2{
+    font-size: 22pt;
+    text-align: center;
+    margin-top: -500px;
+    color:yellowgreen;
+    word-spacing: normal;
+    white-space: nowrap;
+    padding-top: -300px;
+}
+.borderpic{
+    border:rgba(128, 66, 66, 0.518);
+    padding-right: 20px;
+}
+.img-with-text-below{
+    position: relative;
+    padding-right: 10pt;
+    text-align: right;
+    color: #000;
+}
+.h3{
+    font-size: 22pt;
+    text-align:justify;
+    margin-top: 40px;
+    color:yellowgreen;
+    word-spacing: normal;
+    white-space: nowrap;
+}
+.p3{
+    align-content: center;
+}
+.h9{
+    font-size: 22pt;
+    text-align:center;
+    margin-top: 40px;
+    color:yellowgreen;
+    word-spacing: normal;
+    white-space:nowrap;
+    float: right;
+    text-justify: distribute-all-lines;
+}
